@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rithwik2004
 - 👀 I’m interested in Hackathons
-- 🌱 I’m currently a beginner learing c++
+- 🌱 I’m currently a beginner learning c++
 - 💞️ I’m looking to collaborate on anything to gain knowledge
 - 📫 You can reach me on my mail : 20rithwik04@gamil.com
 
